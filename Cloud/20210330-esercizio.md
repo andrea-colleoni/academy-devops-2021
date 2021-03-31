@@ -18,7 +18,7 @@
     - Creare un nuovo file nella propria home directory
       - cd (sposta nella proprio home directory)
       - nano nomefile.txt (apre l'edito di testo nano)
-    - Arrestare la VM
+    - Arrestare la VM (sudo shutdown -h now)
     - Accedere alle informazioni di dettaglio della VM e prendere conoscenza dei diversi dispositivi virtuali che sono stati creati automaticamente creando la VM (dischi, reti, ecc.)
 
 - Verificare la connettività di rete della nuova VM
